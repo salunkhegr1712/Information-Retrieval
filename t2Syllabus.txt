@@ -1,0 +1,15 @@
+⦿ IR Syllabus for T2:
+From the book...
+An Introduction to Information Retrieval
+                                        - By Christopher D. Manning at al.
+
+○ Chapter 2:
+        2.4.2. Positional Indexes          PDF p78-p80
+○ Chapter 3:
+        From 3.1 to 3.4                           PDF p86-p101
+○ Chapter 9:
+        From 9.1 to 9.2
+        Except 9.1.2. Probabilistic Relevance Feedback
+                                                              PDF p214-p230
+
+Total pages to read: 3 + 16 + 17 = 36
