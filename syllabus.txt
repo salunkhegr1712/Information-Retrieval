@@ -1,0 +1,13 @@
+Dear All,
+
+Reference for studies:
+
+I) Richardo book: Chapter 1, Chapter 2: 2.1 to 2.5, Chapter 8: 8.3.2, 8.5
+
+II) Introduction to IR by Christopher D. Manning Prabhakar Raghavan Hinrich Schütze:
+Chapter 1, Chapter 2, Chapter 3, Chapter 4: 4.1 to 4.3, Chapter 6: 6.1 to 6.4.3, 
+Chapter 9, Chapter 11: 11.1 to 11.4.3, Chapter 21: 21.1 to 21.2.2, 21.3
+
+III) The below topics can be referred in general:
+Precision, recall, f-measure 
+Suffix Trie, suffix tree, suffix array, and applications for all 3 
